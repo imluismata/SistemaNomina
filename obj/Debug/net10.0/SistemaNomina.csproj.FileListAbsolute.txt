@@ -1,0 +1,14 @@
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/bin/Debug/net10.0/SistemaNomina
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/bin/Debug/net10.0/SistemaNomina.deps.json
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/bin/Debug/net10.0/SistemaNomina.runtimeconfig.json
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/bin/Debug/net10.0/SistemaNomina.dll
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/bin/Debug/net10.0/SistemaNomina.pdb
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.AssemblyInfoInputs.cache
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.AssemblyInfo.cs
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.csproj.CoreCompileInputs.cache
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.dll
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/refint/SistemaNomina.dll
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.pdb
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/SistemaNomina.genruntimeconfig.cache
+/Users/luismata/RiderProjects/SistemaNomina/SistemaNomina/obj/Debug/net10.0/ref/SistemaNomina.dll
